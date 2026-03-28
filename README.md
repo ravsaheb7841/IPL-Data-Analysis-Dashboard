@@ -59,7 +59,7 @@ The dashboard helps users explore IPL data easily using slicers and visualizatio
 
 ## 🎯 Key Insights
 
-- Most matches are League matches (~94%)  
+- Most matches are League matches (~97%)  
 - Toss has minimal impact (~51% win after toss)  
 - Some teams dominate in total wins  
 - Certain venues host more matches  
